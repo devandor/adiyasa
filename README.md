@@ -26,7 +26,7 @@
 #### JS Framework/Library
 ![Node JS](https://img.shields.io/badge/-node.JS-000?style=for-the-badge&logo=node.js)
 
-#### CSS Framework/Library/Pre-processors=
+#### CSS Framework/Library/Pre-processors
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-000?style=for-the-badge&logo=bootstrap)
 ![Semantic UI](https://img.shields.io/badge/Semantic%20UI-000.svg?style=for-the-badge&logo=SemanticUIReact&logoColor=white)
 
