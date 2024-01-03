@@ -4,7 +4,7 @@
 <p align="center">Journey start here 🚀</p>
 <p align="center">
 
-  <a href="https://linkedin.com/in/sholamul-arib-a96737169" target="_blank">
+  <a href="https://www.linkedin.com/in/adiyasa-putra-401717248/" target="_blank">
     <img alt="" src="https://img.shields.io/badge/LinkedIn-000?logo=linkedin&logoColor=0A66C2&style=for-the-badge" style="vertical-align:center" />
   </a>
   <a href="https://www.instagram.com/adiyasaputra/" target="_blank">
